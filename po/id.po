@@ -3,29 +3,29 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-17 19:25+0100\n"
-"PO-Revision-Date: 2023-10-10 01:04+0000\n"
-"Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>\n"
-"Language-Team: Indonesian <https://hosted.weblate.org/projects/go-for-it/"
-"go-for-it/id/>\n"
+"PO-Revision-Date: 2026-04-20 04:09+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/go-for-it/go-"
+"for-it/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 "X-Launchpad-Export-Date: 2017-11-11 05:37+0000\n"
 
 #: ../src/Constants.vala:72
 msgid "Spread the word about \"%s\""
-msgstr ""
+msgstr "Sebarkan informasi tentang \"%s\""
 
 #: ../src/Constants.vala:73
 msgid "Consider a donation to help the project"
-msgstr ""
+msgstr "Pertimbangkan untuk berdonasi demi mendukung proyek ini"
 
 #: ../src/Constants.vala:74
 msgid "Consider contributing to the project"
-msgstr ""
+msgstr "Pertimbangkan untuk berkontribusi pada proyek ini"
 
 #: ../src/Dialogs/AboutDialog.vala:27 ../src/MainWindow.vala:488
 msgid "About"
@@ -37,21 +37,25 @@ msgstr "Aplikasi daftar tugas luwes lengkap dengan pewaktu produktivitas."
 
 #: ../src/Dialogs/ContributeDialog.vala:28
 msgid "Contributions and Donations"
-msgstr ""
+msgstr "Kontribusi dan Donasi"
 
 #: ../src/Dialogs/ContributeDialog.vala:31
 msgid "Thank you for supporting"
-msgstr ""
+msgstr "Terima kasih atas dukungan Anda"
 
 #: ../src/Dialogs/ContributeDialog.vala:32
 msgid ""
 "Submitting code, artwork, translations or documentation is a great way of "
 "contributing to the project:"
 msgstr ""
+"Mengirimkan kode, karya seni, terjemahan, atau dokumentasi adalah cara yang "
+"bagus untuk berkontribusi pada proyek ini:"
 
 #: ../src/Dialogs/ContributeDialog.vala:36
 msgid "If you really like this app, you can buy me a drink:"
 msgstr ""
+"Jika Anda benar-benar menyukai aplikasi ini, Anda bisa membelikan saya "
+"minuman:"
 
 #: ../src/Dialogs/FileConflictDialog.vala:86
 msgid "Replace \"%s\"?"
@@ -447,27 +451,27 @@ msgstr "Istirahat Selesai"
 
 #: ../src/Services/Notifications.vala:108
 msgid "Your current task is"
-msgstr ""
+msgstr "Tugas Anda saat ini adalah"
 
 #: ../src/Services/Notifications.vala:132
 msgid "Prepare for your break"
-msgstr ""
+msgstr "Bersiaplah untuk istirahat"
 
 #: ../src/Services/Notifications.vala:134
 msgid "You have %s seconds left"
-msgstr ""
+msgstr "Anda memiliki %s detik tersisa"
 
 #: ../src/Services/Notifications.vala:142
 msgid "Task duration exceeded"
-msgstr ""
+msgstr "Durasi tugas terlampaui"
 
 #: ../src/Services/Notifications.vala:143
 msgid "Consider switching to a different task"
-msgstr ""
+msgstr "Pertimbangkan untuk beralih ke tugas lain"
 
 #: ../src/Services/SettingsManager.vala:617
 msgid "Light"
-msgstr ""
+msgstr "Terang"
 
 #: ../src/Services/SettingsManager.vala:619
 msgid "Dark"
@@ -475,334 +479,348 @@ msgstr "Thema Malam"
 
 #: ../src/Services/SettingsManager.vala:621
 msgid "Default"
-msgstr ""
+msgstr "Bawaan"
 
 #: ../src/Services/Shortcuts.vala:57
 msgid "disabled"
-msgstr ""
+msgstr "dinonaktifkan"
 
 #: ../src/Services/Shortcuts.vala:165 ../src/Todo.txt/TxtList.vala:188
 msgid "Sort Tasks"
-msgstr ""
+msgstr "Urutkan Tugas"
 
 #: ../src/Services/Shortcuts.vala:166
 msgid "Add new task/list"
-msgstr ""
+msgstr "Tambah tugas/daftar baru"
 
 #: ../src/Services/Shortcuts.vala:167
 msgid "Start/Stop the timer"
-msgstr ""
+msgstr "Mulai/Hentikan pengatur waktu"
 
 #: ../src/Services/Shortcuts.vala:168
 msgid "Skip the break or skip to the break"
-msgstr ""
+msgstr "Lewati istirahat atau langsung menuju istirahat"
 
 #: ../src/Services/Shortcuts.vala:169
 msgid "Edit the properties of a list or task"
-msgstr ""
+msgstr "Edit properti daftar atau tugas"
 
 #: ../src/Services/Shortcuts.vala:171 ../src/Todo.txt/Widgets/TaskRow.vala:68
 #: ../src/Widgets/TimerView.vala:291
 #: ../plugins/appindicator/appindicator.vala:101
 msgid "Mark the task as complete"
-msgstr ""
+msgstr "Tandai tugas sebagai selesai"
 
 #: ../src/Services/Shortcuts.vala:172
 msgid "Move selected row up"
-msgstr ""
+msgstr "Pindahkan baris yang dipilih ke atas"
 
 #: ../src/Services/Shortcuts.vala:173
 msgid "Move selected row down"
-msgstr ""
+msgstr "Pindahkan baris yang dipilih ke bawah"
 
 #: ../src/Services/Shortcuts.vala:175
 msgid "Move to next task/row"
-msgstr ""
+msgstr "Pindah ke tugas/baris berikutnya"
 
 #: ../src/Services/Shortcuts.vala:176
 msgid "Move to previous task/row"
-msgstr ""
+msgstr "Pindah ke tugas/baris sebelumnya"
 
 #: ../src/Services/Shortcuts.vala:177
 msgid "Move to right screen"
-msgstr ""
+msgstr "Pindah ke layar kanan"
 
 #: ../src/Services/Shortcuts.vala:178
 msgid "Move to left screen"
-msgstr ""
+msgstr "Pindah ke layar kiri"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:66
 msgid "Store to-do tasks in"
-msgstr ""
+msgstr "Simpan tugas yang belum selesai di"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:67
 msgid "Store completed tasks in"
-msgstr ""
+msgstr "Simpan tugas yang telah selesai di"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:68
 msgid "List name"
-msgstr ""
+msgstr "Nama daftar"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:71
 msgid ""
 "Task list location has been changed to \"%1$s\" (was \"%2$s\"), but this "
 "file already exists."
 msgstr ""
+"Lokasi daftar tugas telah diubah ke \"%1$s\" (sebelumnya \"%2$s\"), namun "
+"file ini sudah ada."
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:72
 msgid ""
 "The location to store completed tasks in has been changed to \"%1$s\" (was "
 "\"%2$s\"), but this file already exists."
 msgstr ""
+"Lokasi penyimpanan tugas yang telah selesai telah diubah ke \"%1$s\" "
+"(sebelumnya \"%2$s\"), namun file ini sudah ada."
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:85
 msgid "New to-do list"
-msgstr ""
+msgstr "Daftar tugas baru"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:92
 msgid "Edit to-do list properties"
-msgstr ""
+msgstr "Edit properti daftar tugas"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:94
 msgid "Apply"
-msgstr ""
+msgstr "Terapkan"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:197
 msgid "Log timer usage"
-msgstr ""
+msgstr "Catat penggunaan pengatur waktu"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:200
 msgid ""
 "Keep track of when you used the timer and what tasks you worked on while "
 "doing this."
 msgstr ""
+"Lacak kapan Anda menggunakan pengatur waktu dan tugas apa yang Anda kerjakan "
+"selama itu."
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:202
 msgid "This log will be saved as a CSV file."
-msgstr ""
+msgstr "Log ini akan disimpan sebagai file CSV."
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:205
 msgid "Log file"
-msgstr ""
+msgstr "File log"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:215
 msgid "Select file to log timer usage in"
-msgstr ""
+msgstr "Pilih file untuk mencatat penggunaan pengatur waktu"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:277
 msgid "Select file to store to-do tasks in"
-msgstr ""
+msgstr "Pilih file untuk menyimpan tugas yang belum selesai"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:284
 msgid "Select file to store completed tasks in"
-msgstr ""
+msgstr "Pilih file untuk menyimpan tugas yang telah selesai"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:287
 msgid "Log the time spent working on each task"
-msgstr ""
+msgstr "Catat waktu yang dihabiskan untuk mengerjakan setiap tugas"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:289
 msgid "Log the total time spent working on a task using the timer."
 msgstr ""
+"Catat total waktu yang dihabiskan untuk mengerjakan suatu tugas menggunakan "
+"pengatur waktu."
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:291
 msgid "This information will be stored in the todo.txt files."
-msgstr ""
+msgstr "Informasi ini akan disimpan di file todo.txt."
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:295
 msgid "Log the creation date of tasks"
-msgstr ""
+msgstr "Catat tanggal pembuatan tugas"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:383
 msgid "Use default settings"
-msgstr ""
+msgstr "Gunakan pengaturan bawaan"
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:453
 msgid "The configured to-do file is already in use by another list."
-msgstr ""
+msgstr "File tugas yang dikonfigurasi sudah digunakan oleh daftar lain."
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:469
 msgid ""
 "Another todo.txt list archives its completed tasks to the selected file."
 msgstr ""
+"Daftar todo.txt lain mengarsipkan tugas yang telah selesai ke file yang "
+"dipilih."
 
 #: ../src/Todo.txt/Dialogs/TxtListEditDialog.vala:489
 msgid "Please assign a name to the list."
-msgstr ""
+msgstr "Harap berikan nama untuk daftar ini."
 
 #: ../src/Todo.txt/Filter.vala:60 ../src/Todo.txt/Widgets/TaskRow.vala:397
 msgid "project"
-msgstr ""
+msgstr "proyek"
 
 #: ../src/Todo.txt/Filter.vala:61 ../src/Todo.txt/Widgets/TaskRow.vala:393
 msgid "context"
-msgstr ""
+msgstr "konteks"
 
 #: ../src/Todo.txt/Filter.vala:62 ../src/Todo.txt/Widgets/TaskRow.vala:354
 msgid "priority"
-msgstr ""
+msgstr "prioritas"
 
 #: ../src/Todo.txt/TaskManager.vala:48
 msgid ""
 "%s won't save or load from the current todo.txt folder until it is either "
 "restarted or another location is chosen."
 msgstr ""
+"%s tidak akan menyimpan atau memuat dari folder todo.txt saat ini sampai "
+"aplikasi dimulai ulang atau lokasi lain dipilih."
 
 #: ../src/Todo.txt/TaskManager.vala:49
 msgid "Couldn't read the todo.txt file (%s):"
-msgstr ""
+msgstr "Tidak dapat membaca file todo.txt (%s):"
 
 #: ../src/Todo.txt/TaskManager.vala:50
 msgid "Couldn't save the to-do list (%s):"
-msgstr ""
+msgstr "Tidak dapat menyimpan daftar tugas (%s):"
 
 #: ../src/Todo.txt/TxtList.vala:184
 msgid "Clear Done List"
-msgstr ""
+msgstr "Bersihkan Daftar Selesai"
 
 #: ../src/Todo.txt/TxtListManager.vala:137
 msgid "An error was encountered while moving a file!"
-msgstr ""
+msgstr "Terjadi kesalahan saat memindahkan file!"
 
 #: ../src/Todo.txt/TxtListManager.vala:138
 msgid "Error information: "
-msgstr ""
+msgstr "Informasi kesalahan: "
 
 #: ../src/Todo.txt/Widgets/TaskListWidget.vala:35
 msgid ""
 "You currently don't have any tasks.\n"
 "Add some!"
 msgstr ""
+"Anda saat ini tidak memiliki tugas apa pun.\n"
+"Tambahkan beberapa!"
 
 #: ../src/Todo.txt/Widgets/TaskListWidget.vala:36
 msgid "No tasks found."
-msgstr ""
+msgstr "Tidak ada tugas yang ditemukan."
 
 #: ../src/Todo.txt/Widgets/TaskListWidget.vala:37
 msgid "You don't have any completed tasks stored."
-msgstr ""
+msgstr "Anda tidak memiliki tugas yang telah selesai tersimpan."
 
 #: ../src/Todo.txt/Widgets/TaskListWidget.vala:38
 msgid "You finished all tasks, good job!"
-msgstr ""
+msgstr "Anda telah menyelesaikan semua tugas, kerja bagus!"
 
 #: ../src/Todo.txt/Widgets/TaskListWidget.vala:205
 #: ../src/Todo.txt/Widgets/TaskListWidget.vala:224
 msgid "Add new task"
-msgstr ""
+msgstr "Tambah tugas baru"
 
 #. / see https://valadoc.org/glib-2.0/GLib.DateTime.format.html for
 #. formatting of DateTime
 #: ../src/Todo.txt/Widgets/TaskRow.vala:325
 msgid "%Y-%m-%d"
-msgstr ""
+msgstr "%Y-%m-%d"
 
 #: ../src/Todo.txt/Widgets/TaskRow.vala:329
 msgid "Task completed at %1$s, created at %2$s"
-msgstr ""
+msgstr "Tugas diselesaikan pada %1$s, dibuat pada %2$s"
 
 #: ../src/Todo.txt/Widgets/TaskRow.vala:335
 msgid "Task created at %s"
-msgstr ""
+msgstr "Tugas dibuat pada %s"
 
 #: ../src/Utils.vala:180
 msgid "min."
-msgstr ""
+msgstr "mnt."
 
 #: ../src/Utils.vala:188
 msgid "%u minutes"
-msgstr ""
+msgstr "%u menit"
 
 #: ../src/Utils.vala:190
 msgid "%1$u hours and %2$u minutes"
-msgstr ""
+msgstr "%1$u jam dan %2$u menit"
 
 #. / In a few places a string is turned into an exclamation at runtime. Please translate this if appending '!' is not sufficient to accomplish this.
 #: ../src/Utils.vala:234
 msgid "%s!"
-msgstr ""
+msgstr "%s!"
 
 #: ../src/Widgets/DragList.vala:764
 msgid "Click and drag to reorder rows"
-msgstr ""
+msgstr "Klik dan seret untuk mengurutkan ulang baris"
 
 #: ../src/Widgets/FileChooserWidget.vala:21
 msgid "Choose a file"
-msgstr ""
+msgstr "Pilih file"
 
 #: ../src/Widgets/TimerView.vala:100
 msgid "Skip the remainder of the break"
-msgstr ""
+msgstr "Lewati sisa waktu istirahat"
 
 #: ../src/Widgets/TimerView.vala:102
 msgid "Active Task"
-msgstr ""
+msgstr "Tugas Aktif"
 
 #: ../src/Widgets/TimerView.vala:106
 msgid "Skip to the break"
-msgstr ""
+msgstr "Langsung menuju istirahat"
 
 #: ../src/Widgets/TimerView.vala:147
 msgid "Pau_se"
-msgstr ""
+msgstr "Jeda"
 
 #: ../src/Widgets/TimerView.vala:149
 #: ../plugins/appindicator/appindicator.vala:238
 msgid "Stop the timer"
-msgstr ""
+msgstr "Hentikan pengatur waktu"
 
 #: ../src/Widgets/TimerView.vala:156
 msgid "_Start"
-msgstr ""
+msgstr "Mulai"
 
 #: ../src/Widgets/TimerView.vala:158
 #: ../plugins/appindicator/appindicator.vala:119
 #: ../plugins/appindicator/appindicator.vala:247
 msgid "Start the timer"
-msgstr ""
+msgstr "Mulai pengatur waktu"
 
 #: ../src/Widgets/TimerView.vala:178
 msgid "Inactive"
-msgstr ""
+msgstr "Tidak aktif"
 
 #: ../src/Widgets/TimerView.vala:179
 #: ../plugins/appindicator/appindicator.vala:92
 #: ../plugins/appindicator/appindicator.vala:201
 msgid "No task has been selected"
-msgstr ""
+msgstr "Tidak ada tugas yang dipilih"
 
 #: ../src/Widgets/TimerView.vala:272
 msgid "S_kip"
-msgstr ""
+msgstr "Lewati"
 
 #: ../src/Widgets/TimerView.vala:273
 msgid "_Done"
-msgstr ""
+msgstr "Selesai"
 
 #: ../src/Widgets/TimerView.vala:317
 msgid "Relax"
-msgstr ""
+msgstr "Bersantai"
 
 #: ../src/Widgets/TimerView.vala:318
 msgid "You have nothing to do."
-msgstr ""
+msgstr "Anda tidak memiliki hal yang perlu dilakukan."
 
 #: ../src/Widgets/TodoListInfoRow.vala:99
 msgid "Delete"
-msgstr ""
+msgstr "Hapus"
 
 #: ../src/Widgets/TodoListInfoRow.vala:100
 msgid "Edit"
-msgstr ""
+msgstr "Edit"
 
 #: ../plugins/appindicator/appindicator.vala:78
 msgid "Open %s"
-msgstr ""
+msgstr "Buka %s"
 
 #: ../plugins/appindicator/appindicator.vala:107
 msgid "Switch to next task"
-msgstr ""
+msgstr "Beralih ke tugas berikutnya"
 
 #: ../plugins/appindicator/appindicator.vala:113
 msgid "Switch to the previous task"
-msgstr ""
+msgstr "Beralih ke tugas sebelumnya"
